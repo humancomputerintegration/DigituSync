@@ -6,15 +6,8 @@ This is the repository for 3D printed files used in the wearable device in the "
 
 All 3D printed parts were made with the FormLab Form3 printer from methacrylate resin. Linkages were manufactured with laser cutted 1.5mm thick acrlyic plate. 
 
-#### 3D printed
 
-- 
-
-#### laser cut (1.5mm acrylic)
-
-- 
-
-#### hardware
+#### additional hardware
 
 - 16x Dowel Pin (45mm)
 - 14x Dowel Pin (14mm)
@@ -33,8 +26,4 @@ All 3D printed parts were made with the FormLab Form3 printer from methacrylate 
 
 When using or building upon this device in an academic publication, please consider citing as follows:
 
-Jun Nishida, Yudai Tanaka, Romain Nith, Pedro Lopes. 2022. DigituSync: A Dual-User Passive Exoskeleton Glove ThatAdaptively Shares Hand Gestures. In Proceedings of ACM Symposium on User Interface Software and Technology 2022 (UIST’2022). Association for Computing Machinery, New York, NY, USA. [doi]
-
-## contact
-
-For any questions about this repository, please contact [Jun's emai]
+Jun Nishida, Yudai Tanaka, Romain Nith, Pedro Lopes. 2022. DigituSync: A Dual-User Passive Exoskeleton Glove ThatAdaptively Shares Hand Gestures. In Proceedings of ACM Symposium on User Interface Software and Technology 2022 (UIST’2022). Association for Computing Machinery, New York, NY, USA. https://doi.org/10.1145/3526113.3545630
