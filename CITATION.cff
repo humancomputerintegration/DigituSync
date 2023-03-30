@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nishida"
+  given-names: "Jun"
+- family-names: "Tanaka"
+  given-names: "Yudai"
+- family-names: "Nith"
+  given-names: "Romain"
+- family-names: "Lopes"
+  given-names: "Pedro"
+title: "DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures"
+version: 1.0.0
+doi: 10.1145/3526113.3545630
+date-released: 2022-10-29
+url: "https://github.com/humancomputerintegration/DigituSync"
