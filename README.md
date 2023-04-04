@@ -1,12 +1,12 @@
 # DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures
 
-This is the repository for 3D printed files used in the wearable device in the "DigituSync: A Dual-User Passive Exoskeleton Glove ThatAdaptively Shares Hand Gestures" paper (ACM UIST2022).
+This is the repository for 3D printed files used in the wearable device in the "DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures" paper (ACM UIST2022).
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/ljytGz4nnho/0.jpg)](https://www.youtube.com/watch?v=ljytGz4nnho)
+[![Youtube Video](https://img.youtube.com/vi/ljytGz4nnho/0.jpg)](https://www.youtube.com/watch?v=ljytGz4nnho)
 
 ## hardware
 
-All 3D printed parts were made with the FormLab Form3 printer from methacrylate resin. Linkages were manufactured with laser cutted 1.5mm thick acrlyic plate. 
+All 3D printed parts were made with the FormLab Form3 printer from methacrylate resin. Linkages were manufactured with laser cutted 2.0mm thick acrlyic plate.
 
 
 #### additional hardware
