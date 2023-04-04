@@ -2,7 +2,7 @@
 
 This is the repository for 3D printed files used in the wearable device in the "DigituSync: A Dual-User Passive Exoskeleton Glove ThatAdaptively Shares Hand Gestures" paper (ACM UIST2022).
 
-[![](https://img.youtube.com/vi/ljytGz4nnho&t=6s/0.jpg)](https://www.youtube.com/watch?v=ljytGz4nnho&t=6s)
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/ljytGz4nnho/0.jpg)](https://www.youtube.com/watch?v=ljytGz4nnho)
 
 ## hardware
 
